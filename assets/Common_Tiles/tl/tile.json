@@ -1,0 +1,15 @@
+{
+    "name": "TL",
+    "description": "T + L Tile. Only variation is objects making hugging difficult and a potential bin on the inside in front of the L window.",
+    "extraInformation": {
+        "Optimal Chase Direction": "You want to loop clockwise to get fast vaults. The killer will want to force you counterclockwise to deny. Do not fake unfavourable directions against less aware killers to avoid making them chase you counterclockwise"
+    },
+    "images": [
+        { "file": "tl_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"] },
+        { "file": "tl_top_down_styleB.png", "tags": ["schematic", "top-down", "easy"] },
+        { "file": "tl_frontfromL_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
+        { "file": "tl_frontfromT_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
+        { "file": "tl_45degree_mcmillan.png", "tags": ["in-game", "lateral", "medium", "mcmillan"] },
+        { "file": "tl_shapeonly_mcmillan.png", "tags": ["in-game", "lateral", "hard", "mcmillan"] }
+    ]
+}
