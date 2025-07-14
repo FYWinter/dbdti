@@ -1,0 +1,23 @@
+{
+    "name": "God Rock",
+    "aliases": [
+        "GR"
+    ],
+    "semi-aliases": [
+        "God filler", "godfiller", "god pallet"
+    ],
+    "description": "Filler pallet that is a god pallet if the killer is on the long side. Only vault once the killer crosses the tree on the side you are on, and they will be unable to hit you in time, unless they have bloodlust 3 and you do not have resiliance.",
+    "extraInformation": {
+        "Killer goes short side": "Simply run around the long side. If they double-back, you double-back as well. If they follow, they are on the long side again and you simply checkspot.",
+        "Bloodlust/Ping": "Both high ping and bloodlust can make this pallet a whole lot less safe, but typically you can force the killer to break this pallet.",
+        "Zoning": "Any decent killer will recognize it as a god pallet and will simply have the goal of zoning you (some may check if you know the checkspots tho), as this tends to spawn near edgemap. Be ready to jiggy it and always scout for close by tiles while playing this."
+    },
+    "images": [
+        { "file": "gr_topdown_styleA.png", "tags": ["schematic", "top-down", "easy"] },
+        { "file": "gr_mostlyfrontal_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
+        { "file": "gr_frontalfar_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
+        { "file": "gr_frontalclose_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
+        { "file": "gr_lateralhard_mcmillan.png", "tags": ["in-game", "lateral", "hard", "mcmillan"] },
+        { "file": "gr_lateraleasy_mcmillan.png", "tags": ["in-game", "lateral", "easy", "mcmillan"] }
+    ]
+}

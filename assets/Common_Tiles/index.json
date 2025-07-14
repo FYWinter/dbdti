@@ -1,5 +1,7 @@
 {
     "tiles": [
-        { "id": "tl", "name": "TL"}
+        { "id": "tl", "name": "TL"},
+        { "id": "gr", "name": "God Rock"},
+        { "id": "z", "name": "Z"}
     ]
 }

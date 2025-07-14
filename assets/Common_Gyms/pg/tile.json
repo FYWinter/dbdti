@@ -1,0 +1,21 @@
+{
+    "name": "Pallet Gym",
+    "aliases": [
+        "PG"
+    ],
+    "semiAliases": [
+        "Gym"
+    ],
+    "description": "Gym with only a pallet. Safe pallet with heartbeat reading if pallet is predropped. Depending on the situation it may have to be treated like an unsafe filler tho",
+    "extraInformation": {
+        "Chase": "Primaily you want to save this pallet and use it only for breaking bloodlust/denying a hit. Just jiggy it with enough distance",
+        "Dropped pallet, killer goes long side": "If the killer goes around the long side you can simply wait at the pallet until you see them commit on your side.",
+        "Dropped pallet, killer goes short side": "Run to the edge of the long side. Here you will have to rely on heartbeat reading to know if the killer double-backed or committed to the short side. If they double-back, go back where you came from. If they commit, keep going around the long side. Its important to make sure they ACTUALLY commit, and dont just fake it",
+        "The infamous 'Impossible double-back'": "Some killers will fake going long side and then go around the entire tile (not just the part with the pallet), which allows them to appear behind you on the short side without you ever seeing them.",
+        "Countering the 'Impossible double-back'": "Because the killer has to walk around the entire tile, this is extremely easy to notice through heartbeat reading, as the heartbeat will be significantly less for a brief moment. You can either go long side and continue heartbeat reading once the heartbeat comes closer again, or you just jiggy it as soon as it decreases"
+    },
+    "images": [
+        { "file": "pg_topdown_styleA.jpg", "tags": ["schematic", "top-down", "easy"] },
+        { "file": "pg_behind_mcmillan.png", "tags": ["in-game", "frontal", "medium", "mcmillan"] }
+    ]
+}

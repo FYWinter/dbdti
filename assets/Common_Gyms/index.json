@@ -1,0 +1,6 @@
+{
+    "tiles": [
+        { "id": "sw", "name": "Short Wall"},
+        { "id": "pg", "name": "Pallet Gym"}
+    ]
+}

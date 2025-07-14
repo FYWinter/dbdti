@@ -1,0 +1,11 @@
+{
+    "name": "Short Wall",
+    "description": "Short Wall Jungle Gym. Extremely common tile. Vault is on an L wall, on the opposite side of the pallet. The best use of this tile is to chain it to other tiles",
+    "extraInformation": {
+        "Mindgame Risks": "Chaining the vault and pallet can put you at risk of being mindgamed if you dont checkspot at the pallet. If the killer takes the short outside after a pallet drop, it's a 50/50 mindgame.",
+        "Optimal Chase Direction": "Clockwise to chain pallet and vault, however being chased CCW is very common, especially after taking the vault."
+    },
+    "images": [
+        { "file": "sw_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"] }
+    ]
+}

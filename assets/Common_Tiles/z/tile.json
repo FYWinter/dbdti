@@ -1,0 +1,20 @@
+{
+    "name": "Z",
+    "aliases": [
+        ""
+    ],
+    "semiAliases": [
+        "Edgetile", "edge"
+    ],
+    "description": "Edgemap Tile. Not at all useful for looping.",
+    "extraInformation": {
+        "Location": "Only spawns edgemap. Good if you dont know where edgemap is, but otherwise pretty useless.",
+        "Looping": "Looping this tile is just a matter of gaining a few extra seconds before going down, however you can use it to proc lithe"
+    },
+    "images": [
+        { "file": "z_topdown_styleA.png", "tags": ["schematic", "top-down", "easy"] },
+        { "file": "z_45degree_mcmillan.png", "tags": ["in-game", "lateral", "easy", "mcmillan"] },
+        { "file": "z_angle_mcmillan.png", "tags": ["in-game", "lateral", "easy", "mcmillan"] },
+        { "file": "z_frontal_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] }
+    ]
+}
