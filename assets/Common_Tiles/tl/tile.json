@@ -1,7 +1,7 @@
 {
     "name": "TL",
     "aliases": [
-        "T and L"
+        "T and L", "LT", "L and T"
     ],
     "semiAliases": [
         ""
@@ -13,9 +13,9 @@
     "images": [
         { "file": "tl_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"] },
         { "file": "tl_top_down_styleB.png", "tags": ["schematic", "top-down", "easy"] },
-        { "file": "tl_frontfromL_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
-        { "file": "tl_frontfromT_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
-        { "file": "tl_45degree_mcmillan.png", "tags": ["in-game", "lateral", "medium", "mcmillan"] },
-        { "file": "tl_shapeonly_mcmillan.png", "tags": ["in-game", "lateral", "hard", "mcmillan"] }
+        { "file": "tl_frontfromL_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
+        { "file": "tl_frontfromT_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
+        { "file": "tl_45degree_macmillan.png", "tags": ["in-game", "lateral", "medium", "macmillan"] },
+        { "file": "tl_shapeonly_macmillan.png", "tags": ["in-game", "lateral", "hard", "macmillan"] }
     ]
 }

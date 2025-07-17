@@ -14,10 +14,10 @@
     },
     "images": [
         { "file": "gr_topdown_styleA.png", "tags": ["schematic", "top-down", "easy"] },
-        { "file": "gr_mostlyfrontal_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
-        { "file": "gr_frontalfar_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
-        { "file": "gr_frontalclose_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] },
-        { "file": "gr_lateralhard_mcmillan.png", "tags": ["in-game", "lateral", "hard", "mcmillan"] },
-        { "file": "gr_lateraleasy_mcmillan.png", "tags": ["in-game", "lateral", "easy", "mcmillan"] }
+        { "file": "gr_mostlyfrontal_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
+        { "file": "gr_frontalfar_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
+        { "file": "gr_frontalclose_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
+        { "file": "gr_lateralhard_macmillan.png", "tags": ["in-game", "lateral", "hard", "macmillan"] },
+        { "file": "gr_lateraleasy_macmillan.png", "tags": ["in-game", "lateral", "easy", "macmillan"] }
     ]
 }

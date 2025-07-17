@@ -13,8 +13,8 @@
     },
     "images": [
         { "file": "z_topdown_styleA.png", "tags": ["schematic", "top-down", "easy"] },
-        { "file": "z_45degree_mcmillan.png", "tags": ["in-game", "lateral", "easy", "mcmillan"] },
-        { "file": "z_angle_mcmillan.png", "tags": ["in-game", "lateral", "easy", "mcmillan"] },
-        { "file": "z_frontal_mcmillan.png", "tags": ["in-game", "frontal", "easy", "mcmillan"] }
+        { "file": "z_45degree_macmillan.png", "tags": ["in-game", "lateral", "easy", "macmillan"] },
+        { "file": "z_angle_macmillan.png", "tags": ["in-game", "lateral", "easy", "macmillan"] },
+        { "file": "z_frontal_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] }
     ]
 }

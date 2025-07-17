@@ -16,6 +16,6 @@
     },
     "images": [
         { "file": "pg_topdown_styleA.jpg", "tags": ["schematic", "top-down", "easy"] },
-        { "file": "pg_behind_mcmillan.png", "tags": ["in-game", "frontal", "medium", "mcmillan"] }
+        { "file": "pg_behind_macmillan.png", "tags": ["in-game", "frontal", "medium", "macmillan"] }
     ]
 }
