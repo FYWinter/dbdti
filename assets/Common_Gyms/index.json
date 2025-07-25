@@ -1,6 +1,8 @@
 {
     "tiles": [
         { "id": "sw", "name": "Short Wall"},
-        { "id": "pg", "name": "Pallet Gym"}
+        { "id": "lw", "name": "Long Wall"},
+        { "id": "pg", "name": "Pallet Gym"},
+        { "id": "tp", "name": "Trash Pile"}
     ]
 }

@@ -1,0 +1,60 @@
+{
+    "name": "Trash Pile",
+    "aliases": [
+        "TP", "Trash Pile Gym", "TPG", "Debris Gym", "DG"
+    ],
+    "semiAliases": [
+        "Gym"
+    ],
+    "description": "Trash Pile Gym. Has a pallet on one end and a vault on the other, with two piles of trash/debris in the middle (trash depends on the realm - boxes in the case of macmillan).",
+    "extraInformation": {
+        "Mindgame Risks": "Once the pallet is dropped, you should not just randomly vault it, but rather play around the long side (wall of the gym), however you can still be mindgamed.",
+        "Optimal Chase Direction": "Vaulting the window from the inside to the outside is optimal and can usually be done by winning mindgames at the pallet, as a lot of killers will respect the pallet.",
+        "Pallet Drop": "The pallet provides immense value while not dropped. Once you do drop it, your goal should be running away instead of playing around it, however most killers will not break this pallet, allowing you to chain it later on.",
+        "Where to run after dropping the pallet": "If you are on the inside of the tile, you will not make it to the window. Your goal should be to run around the long wall and eventually leave the tile. If you are on the outside of the tile, you may gain enough distance to vault the window by going around the outside of the long wall, but look out for the killer cutting you off"
+    },
+    "images": [
+        { "file": "tp_top_down_styleA.jpg", "tags": ["schematic", "top-down", "easy"],
+          "blobs": [
+            { "coordinates": { "x": 12.5, "y": 50 }, "text": "Vault on 'C' Shaped wall" },
+            { "coordinates": { "x": 32, "y": 50 }, "text": "Trash Pile #1 (Close to window)" },
+            { "coordinates": { "x": 69.5, "y": 50 }, "text": "Trash Pile #2 (Pallet side)" },
+            { "coordinates": { "x": 84, "y": 43.25 }, "text": "Pallet between small 'L' wall and trash pile #2" }
+          ]
+        },
+        { "file": "tp_front_macmillan.png", "tags": ["in-game", "frontal", "macmillan", "easy"],
+          "blobs": [
+            { "coordinates": { "x": 36, "y": 50 }, "text": "Vault on 'C' Shaped wall" },
+            { "coordinates": { "x": 50, "y": 46 }, "text": "Trash Pile #1 (Close to window)" },
+            { "coordinates": { "x": 71, "y": 50 }, "text": "Trash Pile #2 (Pallet side)" },
+            { "coordinates": { "x": 78, "y": 43 }, "text": "Pallet between 'L' wall and trash pile #2" }
+          ]
+         },
+        { "file": "tp_side_macmillan.png", "tags": ["in-game", "lateral", "macmillan", "medium"],
+          "blobs": [
+            { "coordinates": { "x": 3, "y": 68 }, "text": "No junk walls (Cannot be Pallet Gym)" },
+            { "coordinates": { "x": 28, "y": 55 }, "text": "Trash Pile #2" },
+            { "coordinates": { "x": 30, "y": 45 }, "text": "Corner of 'C' Wall" }
+          ]
+         },
+        { "file": "tp_sidevault_macmillan.png", "tags": ["in-game", "lateral", "macmillan", "medium"],
+          "blobs": [
+            { "coordinates": { "x": 51, "y": 70 }, "text": "Vault on long wall gives impression of LW Gym" },
+            { "coordinates": { "x": 51, "y": 55 }, "text": "Trash Pile #1, it cannot be a LW and must be a TP Gym" }
+          ]
+         },
+        { "file": "tp_45degrees_macmillan.png", "tags": ["in-game", "lateral", "macmillan", "easy"],
+          "blobs": [
+            { "coordinates": { "x": 80, "y": 63 }, "text": "Vault on 'C' Shaped wall" },
+            { "coordinates": { "x": 40, "y": 55 }, "text": "Trash Pile #2 with a pallet" }
+          ]
+         },
+        { "file": "tp_front_nopalletnovault_macmillan.png", "tags": ["in-game", "frontal", "macmillan", "hard"],
+          "blobs": [
+            { "coordinates": { "x": 54, "y": 60 }, "text": "Trash Pile #1" },
+            { "coordinates": { "x": 55, "y": 50 }, "text": "Corner of 'C' Wall" },
+            { "coordinates": { "x": 17, "y": 30 }, "text": "Outside of 'L' Wall" }
+          ]
+         }
+    ]
+}

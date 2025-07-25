@@ -15,7 +15,23 @@
         "Countering the 'Impossible double-back'": "Because the killer has to walk around the entire tile, this is extremely easy to notice through heartbeat reading, as the heartbeat will be significantly less for a brief moment. You can either go long side and continue heartbeat reading once the heartbeat comes closer again, or you just jiggy it as soon as it decreases"
     },
     "images": [
-        { "file": "pg_topdown_styleA.jpg", "tags": ["schematic", "top-down", "easy"] },
-        { "file": "pg_behind_macmillan.png", "tags": ["in-game", "frontal", "medium", "macmillan"] }
+        { "file": "pg_topdown_styleA.jpg", "tags": ["schematic", "top-down", "easy"],
+          "blobs": [
+            { "coordinates": { "x": 48, "y": 75 }, "text": "Pallet resembling a filler" },
+            { "coordinates": { "x": 28, "y": 72 }, "text": "Long side" },
+            { "coordinates": { "x": 75, "y": 80 }, "text": "Short side" },
+            { "coordinates": { "x": 25, "y": 25 }, "text": "Isolated junk wall" },
+            { "coordinates": { "x": 81.5, "y": 40 }, "text": "Isolated junk wall" }
+          ]
+        },
+        { "file": "pg_behind_macmillan.png", "tags": ["in-game", "frontal", "medium", "macmillan"],
+          "blobs": [
+            { "coordinates": { "x": 55, "y": 45 }, "text": "Pallet resembling a filler" },
+            { "coordinates": { "x": 60, "y": 45 }, "text": "Long side" },
+            { "coordinates": { "x": 44, "y": 45 }, "text": "Short side" },
+            { "coordinates": { "x": 75, "y": 40 }, "text": "Isolated junk wall" },
+            { "coordinates": { "x": 20, "y": 40 }, "text": "Isolated junk wall" }
+          ]
+        }
     ]
 }

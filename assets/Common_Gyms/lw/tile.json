@@ -1,11 +1,55 @@
 {
-    "name": "Short Wall",
-    "description": "Short Wall Jungle Gym. Extremely common tile. Vault is on an L wall, on the opposite side of the pallet. The best use of this tile is to chain it to other tiles",
+    "name": "Long Wall",
+    "aliases": [
+        "LW", "Long Wall Jungle Gym", "LWJG", "Long Wall Gym"
+    ],
+    "semiAliases": [
+        "Jungle Gym", "Jungle", "Gym"
+    ],
+    "description": "Long Wall Jungle Gym. Extremely common tile. Just like a Short Wall, except the vault is open and there is a new vault on the long wall, where the pallet was. The pallet also moved to the opposite side.",
     "extraInformation": {
-        "Mindgame Risks": "Chaining the vault and pallet can put you at risk of being mindgamed if you dont checkspot at the pallet. If the killer takes the short outside after a pallet drop, it's a 50/50 mindgame.",
-        "Optimal Chase Direction": "Clockwise to chain pallet and vault, however being chased CCW is very common, especially after taking the vault."
+        "Mindgame Risks": "After vaulting the window you usually want to fake a direction, however this puts you at risk of the killer also faking a direction and then vaulting, which would lead to you running into their vault. You want to either full Jiggy it, or heartbeat read.",
+        "Optimal Chase Direction": "Chaining the vault and pallet is very free and very effective. The pallet is also safe with heartbeat reading.",
+        "Playing the dropped pallet": "When playing the dropped pallet, the killer will usually try and scare you into panic-vaulting. Make sure to always look at the killer taking a step or two towards you before vaulting and not doing it too early."
     },
     "images": [
-        { "file": "sw_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"] }
+        { "file": "lw_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"],
+          "blobs": [
+            { "coordinates": { "x": 87.5, "y": 50 }, "text": "The 'Long wall' has a vault and is not open" },
+            { "coordinates": { "x": 25, "y": 38 }, "text": "Like a short wall gym but open instead of a vault" },
+            { "coordinates": { "x": 27, "y": 69 }, "text": "Pallet is close to the short wall" }
+        ]},
+
+        { "file": "lw_inside_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"],
+            "blobs": [
+                { "coordinates": { "x": 24, "y": 43 }, "text": "The 'Long wall' has a vault" },
+                { "coordinates": { "x": 80, "y": 51 }, "text": "Pallet is far from long wall" }
+            ]
+        },
+        { "file": "lw_frontpallet_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"],
+            "blobs": [
+            { "coordinates": { "x": 80, "y": 40 }, "text": "The 'Long wall'" },
+            { "coordinates": { "x": 30, "y": 50 }, "text": "Pallet is far from long wall" },
+            { "coordinates": { "x": 20, "y": 45 }, "text": "No vault on short wall" }
+        ]},
+        { "file": "lw_sidevault_macmillan.png", "tags": ["in-game", "lateral", "medium", "macmillan"],
+            "blobs": [
+            { "coordinates": { "x": 80, "y": 55 }, "text": "The 'Long wall' has a vault" },
+            { "coordinates": { "x": 35, "y": 55 }, "text": "Pallet is not near long wall" }
+        ]},
+        { "file": "lw_backvault_macmillan.png", "tags": ["in-game", "frontal", "medium", "macmillan"],
+            "blobs": [
+            { "coordinates": { "x": 48, "y": 55 }, "text": "The 'Long wall' has a vault" }
+        ]},
+        { "file": "lw_sidevault2_macmillan.png", "tags": ["in-game", "lateral", "medium", "macmillan"],
+            "blobs": [
+            { "coordinates": { "x": 24.5, "y": 59 }, "text": "The 'Long wall' has a vault" },
+            { "coordinates": { "x": 71, "y": 50 }, "text": "The 'Short wall' is open" }
+        ]},
+        { "file": "lw_side_nopalletnovault_macmillan.png", "tags": ["in-game", "lateral", "hard", "macmillan"],
+            "blobs": [
+            { "coordinates": { "x": 24, "y": 50 }, "text": "Long wall" },
+            { "coordinates": { "x": 40, "y": 55 }, "text": "The 'Short wall' is open" }
+        ]}
     ]
 }

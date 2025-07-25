@@ -13,11 +13,39 @@
         "Zoning": "Any decent killer will recognize it as a god pallet and will simply have the goal of zoning you (some may check if you know the checkspots tho), as this tends to spawn near edgemap. Be ready to jiggy it and always scout for close by tiles while playing this."
     },
     "images": [
-        { "file": "gr_topdown_styleA.png", "tags": ["schematic", "top-down", "easy"] },
-        { "file": "gr_mostlyfrontal_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
-        { "file": "gr_frontalfar_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
-        { "file": "gr_frontalclose_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
+        { "file": "gr_topdown_styleA.png", "tags": ["schematic", "top-down", "easy"],
+          "blobs": [
+            { "coordinates": { "x": 68, "y": 27.5 }, "text": "Tree #1" },
+            { "coordinates": { "x": 61.5, "y": 70 }, "text": "Tree #2" },
+            { "coordinates": { "x": 61, "y": 45 }, "text": "Rock (Long side)" },
+            { "coordinates": { "x": 25, "y": 45 }, "text": "Rock (Short side)" }
+          ]
+        },
+        { "file": "gr_mostlyfrontal_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"],
+          "blobs": [
+            { "coordinates": { "x": 63, "y": 35 }, "text": "Tree #1" },
+            { "coordinates": { "x": 78, "y": 45 }, "text": "Tree #2" },
+            { "coordinates": { "x": 65, "y": 55 }, "text": "Rock (Long side)" },
+            { "coordinates": { "x": 35, "y": 55 }, "text": "Rock (Short side)" }
+          ]
+        },
+        { "file": "gr_frontalfar_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"],
+          "blobs": [
+            { "coordinates": { "x": 77, "y": 30 }, "text": "Tree #1" },
+            { "coordinates": { "x": 70, "y": 50 }, "text": "Rock (Long side)" },
+            { "coordinates": { "x": 40, "y": 50 }, "text": "Rock (Short side)" }
+          ]
+        },
+        { "file": "gr_frontalclose_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"],
+          "blobs": [
+            { "coordinates": { "x": 52, "y": 25 }, "text": "Tree #1" },
+            { "coordinates": { "x": 80, "y": 40 }, "text": "Tree #2" },
+            { "coordinates": { "x": 60, "y": 45 }, "text": "Rock (Long side)" },
+            { "coordinates": { "x": 25, "y": 60 }, "text": "Rock (Short side)" }
+          ]
+        },
         { "file": "gr_lateralhard_macmillan.png", "tags": ["in-game", "lateral", "hard", "macmillan"] },
-        { "file": "gr_lateraleasy_macmillan.png", "tags": ["in-game", "lateral", "easy", "macmillan"] }
+        { "file": "gr_lateraleasy_macmillan.png", "tags": ["in-game", "lateral", "easy", "macmillan"] },
+        { "file": "gr_sideprofile_macmillan.png", "tags": ["in-game", "frontal", "medium", "macmillan"] }
     ]
 }

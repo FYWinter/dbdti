@@ -1,10 +1,10 @@
 {
     "name": "Z",
     "aliases": [
-        ""
+        "Z Wall"
     ],
     "semiAliases": [
-        "Edgetile", "edge"
+        "Edgetile", "edge", "Edgemap", "edgemap tile", "edgemap wall"
     ],
     "description": "Edgemap Tile. Not at all useful for looping.",
     "extraInformation": {
