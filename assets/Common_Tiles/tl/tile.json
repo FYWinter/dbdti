@@ -11,8 +11,17 @@
         "Optimal Chase Direction": "You want to loop clockwise to get fast vaults. The killer will want to force you counterclockwise to deny. Do not fake unfavourable directions against less aware killers to avoid making them chase you counterclockwise"
     },
     "images": [
-        { "file": "tl_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"] },
-        { "file": "tl_top_down_styleB.png", "tags": ["schematic", "top-down", "easy"] },
+        { "file": "tl_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"],
+          "blobs": [
+            { "coordinates": { "x": 25, "y": 31.25 }, "text": "Vault on 'T' Wall" },
+            { "coordinates": { "x": 75, "y": 75 }, "text": "Vault on 'L' Wall" }
+          ]
+        },
+        { "file": "tl_top_down_styleB.png", "tags": ["schematic", "top-down", "easy"],
+          "blobs": [
+            { "coordinates": { "x": 70, "y": 30 }, "text": "Vault on 'T' Wall" },
+            { "coordinates": { "x": 19, "y": 80 }, "text": "Vault on 'L' Wall" }
+          ] },
         { "file": "tl_frontfromL_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
         { "file": "tl_frontfromT_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
         { "file": "tl_45degree_macmillan.png", "tags": ["in-game", "lateral", "medium", "macmillan"] },
