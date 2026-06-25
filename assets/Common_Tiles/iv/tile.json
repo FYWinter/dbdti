@@ -1,0 +1,88 @@
+{
+    "id": "58a13aaf-f535-4413-b02f-f9a0fb9ed51b",
+    "name": "Fourlane Inside",
+    "description": "Fourlane tile. Gets its name from the fact that it has four parallel walls",
+    "aliases": [
+        "IV",
+        "FL",
+        "FLIV",
+        "Inside Variation",
+        "inside"
+    ],
+    "semiAliases": [
+        "Fourlane"
+    ],
+    "extraInformation": {
+        "Inside Variation": "Compared to the outside variation, the vault is easier to get from the inside, but will put you in a relatively bad position"
+    },
+    "images": [
+        {
+            "blobs": [
+                {
+                    "id": "53ce1ba2-26d0-4999-a3dd-ab2148470840",
+                    "name": "New Blob 1",
+                    "text": "Vault inside the tile",
+                    "coordinates": {
+                        "x": 31.25,
+                        "y": 50.17
+                    }
+                }
+            ],
+            "file": "fliv_schematic.png",
+            "tags": [
+                "schematic",
+                "top-down"
+            ],
+            "id": "f3371e28-c936-4be6-a64c-0eacd958799b"
+        },
+        {
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 32.3,
+                        "y": 42.05
+                    },
+                    "id": "e6e23630-95d8-4ef2-9c1e-3d27956c4dc9",
+                    "name": "New Blob 1",
+                    "text": "Pallet with a very short short side"
+                },
+                {
+                    "coordinates": {
+                        "x": 58.2,
+                        "y": 45.82
+                    },
+                    "id": "46533c47-8f3a-49dd-a59e-7dd70938b13d",
+                    "name": "iVault",
+                    "text": "Vault inside the tile - hence a fourline inside variation"
+                }
+            ],
+            "file": "iv_frontal_autohaven.png",
+            "id": "e6893e06-1165-43cb-bde4-ac15ed1e19d9",
+            "tags": [
+                "in-game",
+                "autohaven",
+                "frontal"
+            ]
+        },
+        {
+            "file": "fliv_macmillan.png",
+            "tags": [
+                "in-game",
+                "macmillan",
+                "lateral"
+            ],
+            "blobs": [
+                {
+                    "id": "20b0c14e-1fe0-4f4b-8b4b-207b6ec49aee",
+                    "name": "New Blob 1",
+                    "text": "Vault inside the tile",
+                    "coordinates": {
+                        "x": 62.79,
+                        "y": 61.18
+                    }
+                }
+            ],
+            "id": "4c7ba872-3be6-4a62-87ca-710b7efcddb3"
+        }
+    ]
+}

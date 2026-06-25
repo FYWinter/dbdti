@@ -1,0 +1,218 @@
+{
+    "name": "God Rock",
+    "aliases": [
+        "GR",
+        "Rock"
+    ],
+    "semi-aliases": [
+        "God filler",
+        "godfiller",
+        "god pallet"
+    ],
+    "description": "! IMPORTANT !\nSince the 9.2.0 Pallet Density changes, the god rock no longer exists in this form.\n\n\nFiller pallet that is a god pallet if the killer is on the long side. Only vault once the killer crosses the tree on the side you are on, and they will be unable to hit you in time, unless they have bloodlust 3 and you do not have resiliance.",
+    "extraInformation": {
+        "Killer goes short side": "Simply run around the long side. If they double-back, you double-back as well. If they follow, they are on the long side again and you simply checkspot.",
+        "Bloodlust/Ping": "Both high ping and bloodlust can make this pallet a whole lot less safe, but typically you can force the killer to break this pallet.",
+        "Zoning": "Any decent killer will recognize it as a god pallet and will simply have the goal of zoning you (some may check if you know the checkspots tho), as this tends to spawn near edgemap. Be ready to jiggy it and always scout for close by tiles while playing this."
+    },
+    "images": [
+        {
+            "file": "gr_topdown_styleA.png",
+            "tags": [
+                "schematic",
+                "top-down",
+                "easy"
+            ],
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 68,
+                        "y": 27.5
+                    },
+                    "text": "Tree #1",
+                    "id": "f0c9a69c-09ad-4d85-b80f-162cea026e67"
+                },
+                {
+                    "coordinates": {
+                        "x": 61.5,
+                        "y": 70
+                    },
+                    "text": "Tree #2",
+                    "id": "dc3448ba-a904-47a0-ae84-c4c31e439109"
+                },
+                {
+                    "coordinates": {
+                        "x": 61,
+                        "y": 45
+                    },
+                    "text": "Rock (Long side)",
+                    "id": "3f470125-9673-4458-865a-e9f97a71c5e7"
+                },
+                {
+                    "coordinates": {
+                        "x": 25,
+                        "y": 45
+                    },
+                    "text": "Rock (Short side)",
+                    "id": "5c0ee7f7-aeb1-4290-8c33-6155dcbe0a0e"
+                }
+            ],
+            "id": "a2f7c0e1-6e56-48c4-a0b3-9a19f1bd5936"
+        },
+        {
+            "file": "gr_mostlyfrontal_macmillan.png",
+            "tags": [
+                "in-game",
+                "frontal",
+                "easy",
+                "macmillan"
+            ],
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 63,
+                        "y": 35
+                    },
+                    "text": "Tree #1",
+                    "id": "54e9cf33-0024-447d-b342-ec45533cb397"
+                },
+                {
+                    "coordinates": {
+                        "x": 78,
+                        "y": 45
+                    },
+                    "text": "Tree #2",
+                    "id": "7d7dd4cd-f04f-4f5b-a66b-b7b825896669"
+                },
+                {
+                    "coordinates": {
+                        "x": 65,
+                        "y": 55
+                    },
+                    "text": "Rock (Long side)",
+                    "id": "2ffd810e-baea-4cd4-bf63-9866a6248598"
+                },
+                {
+                    "coordinates": {
+                        "x": 35,
+                        "y": 55
+                    },
+                    "text": "Rock (Short side)",
+                    "id": "12a7ff83-dd73-4431-a0e9-2262349ed6e5"
+                }
+            ],
+            "id": "56631930-4e91-49a4-9567-e3aabb8b11b0"
+        },
+        {
+            "file": "gr_frontalfar_macmillan.png",
+            "tags": [
+                "in-game",
+                "frontal",
+                "easy",
+                "macmillan"
+            ],
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 77,
+                        "y": 30
+                    },
+                    "text": "Tree #1",
+                    "id": "4305851d-d25a-473f-a67c-f4858ad68489"
+                },
+                {
+                    "coordinates": {
+                        "x": 70,
+                        "y": 50
+                    },
+                    "text": "Rock (Long side)",
+                    "id": "31885655-cd2c-46b0-a4b6-7cab3d700941"
+                },
+                {
+                    "coordinates": {
+                        "x": 40,
+                        "y": 50
+                    },
+                    "text": "Rock (Short side)",
+                    "id": "14231597-db76-4cf5-a43e-f467846f5deb"
+                }
+            ],
+            "id": "abac925e-8be3-4095-953c-11787bb5c129"
+        },
+        {
+            "file": "gr_frontalclose_macmillan.png",
+            "tags": [
+                "in-game",
+                "frontal",
+                "easy",
+                "macmillan"
+            ],
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 52,
+                        "y": 25
+                    },
+                    "text": "Tree #1",
+                    "id": "8b2c8cc5-b2c7-4143-8d8c-2908ee851745"
+                },
+                {
+                    "coordinates": {
+                        "x": 80,
+                        "y": 40
+                    },
+                    "text": "Tree #2",
+                    "id": "83b5eecb-1df9-4b68-a019-56c0d91776b3"
+                },
+                {
+                    "coordinates": {
+                        "x": 60,
+                        "y": 45
+                    },
+                    "text": "Rock (Long side)",
+                    "id": "71831551-aab1-48c4-8c86-2e7965d0f3c8"
+                },
+                {
+                    "coordinates": {
+                        "x": 25,
+                        "y": 60
+                    },
+                    "text": "Rock (Short side)",
+                    "id": "0acf7202-fcde-492e-96d1-c732518f57fd"
+                }
+            ],
+            "id": "c986b7e7-d3e9-4820-9639-fdb8e58d4b01"
+        },
+        {
+            "file": "gr_lateralhard_macmillan.png",
+            "tags": [
+                "in-game",
+                "lateral",
+                "hard",
+                "macmillan"
+            ],
+            "id": "aabb1470-50b8-475a-98b1-cee9525c3371"
+        },
+        {
+            "file": "gr_lateraleasy_macmillan.png",
+            "tags": [
+                "in-game",
+                "lateral",
+                "easy",
+                "macmillan"
+            ],
+            "id": "a9565a87-db82-406d-b335-57ab00817036"
+        },
+        {
+            "file": "gr_sideprofile_macmillan.png",
+            "tags": [
+                "in-game",
+                "frontal",
+                "medium",
+                "macmillan"
+            ],
+            "id": "a777ebf1-1d2c-4645-9a3a-34e35be0c47f"
+        }
+    ],
+    "id": "b456103b-fe66-45c9-a656-ca2d86a306a3"
+}

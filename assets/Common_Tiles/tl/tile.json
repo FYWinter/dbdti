@@ -1,7 +1,9 @@
 {
     "name": "TL",
     "aliases": [
-        "T and L", "LT", "L and T"
+        "T and L",
+        "LT",
+        "L and T"
     ],
     "semiAliases": [
         ""
@@ -11,20 +13,100 @@
         "Optimal Chase Direction": "You want to loop clockwise to get fast vaults. The killer will want to force you counterclockwise to deny. Do not fake unfavourable directions against less aware killers to avoid making them chase you counterclockwise"
     },
     "images": [
-        { "file": "tl_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"],
-          "blobs": [
-            { "coordinates": { "x": 25, "y": 31.25 }, "text": "Vault on 'T' Wall" },
-            { "coordinates": { "x": 75, "y": 75 }, "text": "Vault on 'L' Wall" }
-          ]
+        {
+            "file": "tl_top_down_styleA.jpg",
+            "tags": [
+                "schematic",
+                "top-down",
+                "medium"
+            ],
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 25,
+                        "y": 31.25
+                    },
+                    "text": "Vault on 'T' Wall",
+                    "id": "f5de2acb-6c64-4e03-9a55-4ab048a425ad"
+                },
+                {
+                    "coordinates": {
+                        "x": 75,
+                        "y": 75
+                    },
+                    "text": "Vault on 'L' Wall",
+                    "id": "71079acc-7718-4ebe-939c-1522fab3b783"
+                }
+            ],
+            "id": "745fb2c2-05fd-4f6e-8c61-36315ea99af2"
         },
-        { "file": "tl_top_down_styleB.png", "tags": ["schematic", "top-down", "easy"],
-          "blobs": [
-            { "coordinates": { "x": 70, "y": 30 }, "text": "Vault on 'T' Wall" },
-            { "coordinates": { "x": 19, "y": 80 }, "text": "Vault on 'L' Wall" }
-          ] },
-        { "file": "tl_frontfromL_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
-        { "file": "tl_frontfromT_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"] },
-        { "file": "tl_45degree_macmillan.png", "tags": ["in-game", "lateral", "medium", "macmillan"] },
-        { "file": "tl_shapeonly_macmillan.png", "tags": ["in-game", "lateral", "hard", "macmillan"] }
-    ]
+        {
+            "file": "tl_top_down_styleB.png",
+            "tags": [
+                "schematic",
+                "top-down",
+                "easy"
+            ],
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 70,
+                        "y": 30
+                    },
+                    "text": "Vault on 'T' Wall",
+                    "id": "db4ddc15-8adf-4cd2-b2eb-fe95d656dda9"
+                },
+                {
+                    "coordinates": {
+                        "x": 19,
+                        "y": 80
+                    },
+                    "text": "Vault on 'L' Wall",
+                    "id": "a02147fd-3860-4141-927c-e00fa4c67550"
+                }
+            ],
+            "id": "e0cbfe4b-83cc-442c-b3eb-173b5df1b250"
+        },
+        {
+            "file": "tl_frontfromL_macmillan.png",
+            "tags": [
+                "in-game",
+                "frontal",
+                "easy",
+                "macmillan"
+            ],
+            "id": "1d84e01e-dfd3-43e0-97c7-09dcacf35137"
+        },
+        {
+            "file": "tl_frontfromT_macmillan.png",
+            "tags": [
+                "in-game",
+                "frontal",
+                "easy",
+                "macmillan"
+            ],
+            "id": "4b30a607-4b9a-4ec8-8dd4-5c95c7b027a7"
+        },
+        {
+            "file": "tl_45degree_macmillan.png",
+            "tags": [
+                "in-game",
+                "lateral",
+                "medium",
+                "macmillan"
+            ],
+            "id": "053268a1-9d94-4c66-bb5c-2c235fd01cfa"
+        },
+        {
+            "file": "tl_shapeonly_macmillan.png",
+            "tags": [
+                "in-game",
+                "lateral",
+                "hard",
+                "macmillan"
+            ],
+            "id": "3a728320-c1f6-4a65-8bd1-956cc4543578"
+        }
+    ],
+    "id": "8ac56b59-8525-460d-8d83-1901cd986ffb"
 }

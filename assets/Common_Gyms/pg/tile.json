@@ -15,23 +15,109 @@
         "Countering the 'Impossible double-back'": "Because the killer has to walk around the entire tile, this is extremely easy to notice through heartbeat reading, as the heartbeat will be significantly less for a brief moment. You can either go long side and continue heartbeat reading once the heartbeat comes closer again, or you just jiggy it as soon as it decreases"
     },
     "images": [
-        { "file": "pg_topdown_styleA.jpg", "tags": ["schematic", "top-down", "easy"],
-          "blobs": [
-            { "coordinates": { "x": 48, "y": 75 }, "text": "Pallet resembling a filler" },
-            { "coordinates": { "x": 28, "y": 72 }, "text": "Long side" },
-            { "coordinates": { "x": 75, "y": 80 }, "text": "Short side" },
-            { "coordinates": { "x": 25, "y": 25 }, "text": "Isolated junk wall" },
-            { "coordinates": { "x": 81.5, "y": 40 }, "text": "Isolated junk wall" }
-          ]
+        {
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 48,
+                        "y": 75
+                    },
+                    "id": "4f5f8d47-2df6-4ffa-a4a8-d137b6a31e5d",
+                    "text": "Pallet resembling a filler"
+                },
+                {
+                    "coordinates": {
+                        "x": 28,
+                        "y": 72
+                    },
+                    "id": "5792832d-d2a6-48f2-819c-a97f992f61c8",
+                    "text": "Long side"
+                },
+                {
+                    "coordinates": {
+                        "x": 75,
+                        "y": 80
+                    },
+                    "id": "bacd396a-0191-4584-a0f0-f84d76d0c9e8",
+                    "text": "Short side"
+                },
+                {
+                    "coordinates": {
+                        "x": 25,
+                        "y": 25
+                    },
+                    "id": "50c55f92-0d0a-4d40-91ff-055f54f189f0",
+                    "text": "Isolated junk wall"
+                },
+                {
+                    "coordinates": {
+                        "x": 81.5,
+                        "y": 40
+                    },
+                    "id": "8ec0e847-0320-4916-8705-bffe3f2546bb",
+                    "text": "Isolated junk wall"
+                }
+            ],
+            "file": "pg_topdown_styleA.jpg",
+            "id": "21766225-d524-4004-988f-2ba0629277fb",
+            "tags": [
+                "schematic",
+                "top-down",
+                "easy"
+            ]
         },
-        { "file": "pg_behind_macmillan.png", "tags": ["in-game", "frontal", "medium", "macmillan"],
-          "blobs": [
-            { "coordinates": { "x": 55, "y": 45 }, "text": "Pallet resembling a filler" },
-            { "coordinates": { "x": 60, "y": 45 }, "text": "Long side" },
-            { "coordinates": { "x": 44, "y": 45 }, "text": "Short side" },
-            { "coordinates": { "x": 75, "y": 40 }, "text": "Isolated junk wall" },
-            { "coordinates": { "x": 20, "y": 40 }, "text": "Isolated junk wall" }
-          ]
+        {
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 55,
+                        "y": 45
+                    },
+                    "id": "0996757d-660d-48f9-ae02-9bc82e055b7f",
+                    "text": "Pallet resembling a filler"
+                },
+                {
+                    "coordinates": {
+                        "x": 60,
+                        "y": 45
+                    },
+                    "id": "ade6833b-3fa0-4904-8b55-35119a854fe4",
+                    "text": "Long side"
+                },
+                {
+                    "coordinates": {
+                        "x": 44,
+                        "y": 45
+                    },
+                    "id": "34a81968-fdcb-43e4-9d4d-2c6c8c328a8a",
+                    "text": "Short side"
+                },
+                {
+                    "coordinates": {
+                        "x": 75,
+                        "y": 40
+                    },
+                    "id": "fa2d9da9-7717-438b-9d73-a3a45ca625f2",
+                    "text": "Isolated junk wall"
+                },
+                {
+                    "coordinates": {
+                        "x": 20,
+                        "y": 40
+                    },
+                    "id": "75581b0f-33fa-43ff-b3b6-6abc63601f02",
+                    "text": "Isolated junk wall"
+                }
+            ],
+            "file": "pg_behind_macmillan.png",
+            "id": "633bd221-acf8-4bfa-b18f-3012c8a18c7f",
+            "tags": [
+                "in-game",
+                "frontal",
+                "medium",
+                "macmillan"
+            ]
         }
-    ]
+    ],
+    "id": "c7a52191-a534-44ca-a769-e5805c66e6a0"
 }

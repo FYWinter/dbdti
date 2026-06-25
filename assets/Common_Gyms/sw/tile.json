@@ -1,10 +1,15 @@
 {
     "name": "Short Wall",
     "aliases": [
-        "SW", "Short Wall Jungle Gym", "SWJG", "Short Wall Gym"
+        "SW",
+        "Short Wall Jungle Gym",
+        "SWJG",
+        "Short Wall Gym"
     ],
     "semiAliases": [
-        "Jungle Gym", "Jungle", "Gym"
+        "Jungle Gym",
+        "Jungle",
+        "Gym"
     ],
     "description": "Short Wall Jungle Gym. Extremely common tile. Vault is on an L wall, on the opposite side of the pallet. The best use of this tile is to chain it to other tiles",
     "extraInformation": {
@@ -12,11 +17,41 @@
         "Optimal Chase Direction": "Clockwise to chain pallet and vault, however being chased CCW is very common, especially after taking the vault."
     },
     "images": [
-        { "file": "sw_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"],
-          "blobs": [
-            { "coordinates": { "x": 87.5, "y": 50 }, "text": "The 'Long wall' is open" },
-            { "coordinates": { "x": 25, "y": 38 }, "text": "'L' Shaped wall with a vault" },
-            { "coordinates": { "x": 67, "y": 83 }, "text": "Pallet is close to the 'Long wall'" }
-        ]}
-    ]
+            {
+                "blobs": [
+                    {
+                        "coordinates": {
+                            "x": 87.5,
+                            "y": 50
+                        },
+                        "id": "70d1fa46-ba39-4149-9a1b-522a4ae3f55a",
+                        "text": "The 'Long wall' is open"
+                    },
+                    {
+                        "coordinates": {
+                            "x": 25,
+                            "y": 38
+                        },
+                        "id": "c0c33939-f662-4d1b-b755-d1ec6b94f270",
+                        "text": "'L' Shaped wall with a vault"
+                    },
+                    {
+                        "coordinates": {
+                            "x": 67,
+                            "y": 83
+                        },
+                        "id": "561e6b46-101b-4be1-8a71-e0d75ddf1ade",
+                        "text": "Pallet is close to the 'Long wall'"
+                    }
+                ],
+                "file": "sw_top_down_styleA.jpg",
+                "id": "9313ed33-121a-457d-8305-74687cf0f2c3",
+                "tags": [
+                    "schematic",
+                    "top-down",
+                    "medium"
+                ]
+            }
+    ],
+    "id": "d56009db-1c09-4c9e-a8c5-8fad9c2145a3"
 }

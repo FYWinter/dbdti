@@ -1,7 +1,16 @@
 {
     "tiles": [
-        { "id": "tl", "name": "TL"},
-        { "id": "gr", "name": "God Rock"},
-        { "id": "z", "name": "Z"}
+        {
+            "id": "tl",
+            "name": "TL"
+        },
+        {
+            "id": "iv",
+            "name": "Fourlane Inside"
+        },
+        {
+            "id": "flov",
+            "name": "Fourlane Outside"
+        }
     ]
 }

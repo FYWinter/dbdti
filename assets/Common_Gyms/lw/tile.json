@@ -1,10 +1,15 @@
 {
     "name": "Long Wall",
     "aliases": [
-        "LW", "Long Wall Jungle Gym", "LWJG", "Long Wall Gym"
+        "LW",
+        "Long Wall Jungle Gym",
+        "LWJG",
+        "Long Wall Gym"
     ],
     "semiAliases": [
-        "Jungle Gym", "Jungle", "Gym"
+        "Jungle Gym",
+        "Jungle",
+        "Gym"
     ],
     "description": "Long Wall Jungle Gym. Extremely common tile. Just like a Short Wall, except the vault is open and there is a new vault on the long wall, where the pallet was. The pallet also moved to the opposite side.",
     "extraInformation": {
@@ -13,43 +18,209 @@
         "Playing the dropped pallet": "When playing the dropped pallet, the killer will usually try and scare you into panic-vaulting. Make sure to always look at the killer taking a step or two towards you before vaulting and not doing it too early."
     },
     "images": [
-        { "file": "lw_top_down_styleA.jpg", "tags": ["schematic", "top-down", "medium"],
-          "blobs": [
-            { "coordinates": { "x": 87.5, "y": 50 }, "text": "The 'Long wall' has a vault and is not open" },
-            { "coordinates": { "x": 25, "y": 38 }, "text": "Like a short wall gym but open instead of a vault" },
-            { "coordinates": { "x": 27, "y": 69 }, "text": "Pallet is close to the short wall" }
-        ]},
-
-        { "file": "lw_inside_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"],
+        {
+            "file": "lw_top_down_styleA.jpg",
+            "tags": [
+                "schematic",
+                "top-down",
+                "medium"
+            ],
             "blobs": [
-                { "coordinates": { "x": 24, "y": 43 }, "text": "The 'Long wall' has a vault" },
-                { "coordinates": { "x": 80, "y": 51 }, "text": "Pallet is far from long wall" }
-            ]
+                {
+                    "coordinates": {
+                        "x": 87.5,
+                        "y": 50
+                    },
+                    "text": "The 'Long wall' has a vault and is not open",
+                    "id": "989fd9bf-a98d-47d6-acd5-4264ac8c656e"
+                },
+                {
+                    "coordinates": {
+                        "x": 25,
+                        "y": 38
+                    },
+                    "text": "Like a short wall gym but open instead of a vault",
+                    "id": "61f530e0-6c14-4155-b975-201e62ad2e3f"
+                },
+                {
+                    "coordinates": {
+                        "x": 27,
+                        "y": 69
+                    },
+                    "text": "Pallet is close to the short wall",
+                    "id": "75db01ba-e68f-47ed-bbc8-8b2b727b6dda"
+                }
+            ],
+            "id": "2c45b81f-7d9d-48cf-835b-2b4deb5383cf"
         },
-        { "file": "lw_frontpallet_macmillan.png", "tags": ["in-game", "frontal", "easy", "macmillan"],
+        {
+            "file": "lw_inside_macmillan.png",
+            "tags": [
+                "in-game",
+                "frontal",
+                "easy",
+                "macmillan"
+            ],
             "blobs": [
-            { "coordinates": { "x": 80, "y": 40 }, "text": "The 'Long wall'" },
-            { "coordinates": { "x": 30, "y": 50 }, "text": "Pallet is far from long wall" },
-            { "coordinates": { "x": 20, "y": 45 }, "text": "No vault on short wall" }
-        ]},
-        { "file": "lw_sidevault_macmillan.png", "tags": ["in-game", "lateral", "medium", "macmillan"],
+                {
+                    "coordinates": {
+                        "x": 24,
+                        "y": 43
+                    },
+                    "text": "The 'Long wall' has a vault",
+                    "id": "93571daf-19ba-4d62-85d3-1fedb6c6658b"
+                },
+                {
+                    "coordinates": {
+                        "x": 80,
+                        "y": 51
+                    },
+                    "text": "Pallet is far from long wall",
+                    "id": "8adb2f91-dc58-4476-825c-ef3ae5a00354"
+                }
+            ],
+            "id": "1e046961-dc44-4e30-9efc-7a4ceda26d03"
+        },
+        {
+            "file": "lw_frontpallet_macmillan.png",
+            "tags": [
+                "in-game",
+                "frontal",
+                "easy",
+                "macmillan"
+            ],
             "blobs": [
-            { "coordinates": { "x": 80, "y": 55 }, "text": "The 'Long wall' has a vault" },
-            { "coordinates": { "x": 35, "y": 55 }, "text": "Pallet is not near long wall" }
-        ]},
-        { "file": "lw_backvault_macmillan.png", "tags": ["in-game", "frontal", "medium", "macmillan"],
+                {
+                    "coordinates": {
+                        "x": 80,
+                        "y": 40
+                    },
+                    "text": "The 'Long wall'",
+                    "id": "ae8a65e7-79de-427a-92c3-b0645f2707a9"
+                },
+                {
+                    "coordinates": {
+                        "x": 30,
+                        "y": 50
+                    },
+                    "text": "Pallet is far from long wall",
+                    "id": "e99f0683-1c6d-4181-adad-f3b821716ef1"
+                },
+                {
+                    "coordinates": {
+                        "x": 20,
+                        "y": 45
+                    },
+                    "text": "No vault on short wall",
+                    "id": "e3615761-7687-496b-928e-6f82ce115059"
+                }
+            ],
+            "id": "5a8b3efc-516f-4e3b-ad1f-f70a02d8fcd2"
+        },
+        {
+            "file": "lw_sidevault_macmillan.png",
+            "tags": [
+                "in-game",
+                "lateral",
+                "medium",
+                "macmillan"
+            ],
             "blobs": [
-            { "coordinates": { "x": 48, "y": 55 }, "text": "The 'Long wall' has a vault" }
-        ]},
-        { "file": "lw_sidevault2_macmillan.png", "tags": ["in-game", "lateral", "medium", "macmillan"],
+                {
+                    "coordinates": {
+                        "x": 80,
+                        "y": 55
+                    },
+                    "text": "The 'Long wall' has a vault",
+                    "id": "dbb9443f-39b4-42e2-8f4f-e5de20f5924e"
+                },
+                {
+                    "coordinates": {
+                        "x": 35,
+                        "y": 55
+                    },
+                    "text": "Pallet is not near long wall",
+                    "id": "d0f377cb-a33b-4ed5-a50e-9440c468475f"
+                }
+            ],
+            "id": "09e7fbad-6753-4083-ae7a-3877806540c8"
+        },
+        {
+            "file": "lw_backvault_macmillan.png",
+            "tags": [
+                "in-game",
+                "frontal",
+                "medium",
+                "macmillan"
+            ],
             "blobs": [
-            { "coordinates": { "x": 24.5, "y": 59 }, "text": "The 'Long wall' has a vault" },
-            { "coordinates": { "x": 71, "y": 50 }, "text": "The 'Short wall' is open" }
-        ]},
-        { "file": "lw_side_nopalletnovault_macmillan.png", "tags": ["in-game", "lateral", "hard", "macmillan"],
+                {
+                    "coordinates": {
+                        "x": 48,
+                        "y": 55
+                    },
+                    "text": "The 'Long wall' has a vault",
+                    "id": "67364706-b030-43a6-a737-3ecff7ffc6a5"
+                }
+            ],
+            "id": "7be9c003-03ab-4b8c-bcc2-d0a497282089"
+        },
+        {
+            "file": "lw_sidevault2_macmillan.png",
+            "tags": [
+                "in-game",
+                "lateral",
+                "medium",
+                "macmillan"
+            ],
             "blobs": [
-            { "coordinates": { "x": 24, "y": 50 }, "text": "Long wall" },
-            { "coordinates": { "x": 40, "y": 55 }, "text": "The 'Short wall' is open" }
-        ]}
-    ]
+                {
+                    "coordinates": {
+                        "x": 24.5,
+                        "y": 59
+                    },
+                    "text": "The 'Long wall' has a vault",
+                    "id": "e46838b7-da57-42c7-bf98-5fb96a09a028"
+                },
+                {
+                    "coordinates": {
+                        "x": 71,
+                        "y": 50
+                    },
+                    "text": "The 'Short wall' is open",
+                    "id": "d062e07f-8044-430c-8ff9-0e2314d34230"
+                }
+            ],
+            "id": "aedc0a4f-6cdc-480d-ac4c-2de19b2fa8a4"
+        },
+        {
+            "file": "lw_side_nopalletnovault_macmillan.png",
+            "tags": [
+                "in-game",
+                "lateral",
+                "hard",
+                "macmillan"
+            ],
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 24,
+                        "y": 50
+                    },
+                    "text": "Long wall",
+                    "id": "dce1f7e0-9adb-4663-975a-e00b46fbcf09"
+                },
+                {
+                    "coordinates": {
+                        "x": 40,
+                        "y": 55
+                    },
+                    "text": "The 'Short wall' is open",
+                    "id": "e04fe1e2-f9c2-45e8-8533-fe73d20a2e7d"
+                }
+            ],
+            "id": "7ee144dd-7208-4bb4-ae40-171323ad2f09"
+        }
+    ],
+    "id": "41db96dd-1597-47bd-be33-f9e24de8e040"
 }

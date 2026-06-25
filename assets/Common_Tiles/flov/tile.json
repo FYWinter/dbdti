@@ -1,0 +1,98 @@
+{
+    "id": "c16ce0b1-ea19-407e-af5f-e4008db76835",
+    "name": "Fourlane Outside",
+    "description": "Same as FLIV but with the vault facing the outside of the tile, making this version even worse",
+    "aliases": [],
+    "semiAliases": [],
+    "extraInformation": {},
+    "images": [
+        {
+            "file": "flow_schematic.png",
+            "tags": [
+                "schematic",
+                "top-down",
+                "easy"
+            ],
+            "blobs": [
+                {
+                    "coordinates": {
+                        "x": 87.16,
+                        "y": 56.59
+                    },
+                    "id": "7768e952-d6d9-4942-8e4c-bce56181711d",
+                    "name": "New Blob 1",
+                    "text": "Vault is facing the outside of the tile"
+                },
+                {
+                    "id": "472a4278-5c84-4f5e-95de-3ca1b695ec30",
+                    "name": "New Blob 2",
+                    "text": "Wall inside the tile at the pallet is short, on a FLIV it would be longer",
+                    "coordinates": {
+                        "x": 30.74,
+                        "y": 31.59
+                    }
+                }
+            ],
+            "id": "0e360ee0-dce4-4875-a5c5-b14b5eda2ddd"
+        },
+        {
+            "file": "flow_macmillan_lateral.png",
+            "tags": [
+                "macmillan",
+                "in-game",
+                "hard",
+                "fl"
+            ],
+            "blobs": [
+                {
+                    "id": "b72de052-4b4e-475d-a43d-637719548e37",
+                    "name": "New Blob 1",
+                    "text": "No vault inside tile",
+                    "coordinates": {
+                        "x": 49.34,
+                        "y": 63.85
+                    }
+                },
+                {
+                    "id": "33832f47-7f54-4d59-8986-61fbc8ff9358",
+                    "name": "New Blob 2",
+                    "text": "No vault inside tile",
+                    "coordinates": {
+                        "x": 30.0,
+                        "y": 65.64
+                    }
+                }
+            ],
+            "id": "a620806b-0792-4bd7-8f88-688a037d3b75"
+        },
+        {
+            "file": "flow_macmillan_frontal.png",
+            "tags": [
+                "in-game",
+                "macmillan",
+                "medium"
+            ],
+            "blobs": [
+                {
+                    "id": "3788e680-13a5-408a-92c0-4bae4234044e",
+                    "name": "New Blob 1",
+                    "text": "Wall inside the tile at the pallet is short, on a FLIV it would be long",
+                    "coordinates": {
+                        "x": 57.38,
+                        "y": 34.44
+                    }
+                },
+                {
+                    "id": "fedfd5df-a38a-4666-b69d-e869742f09c3",
+                    "name": "New Blob 2",
+                    "text": "No vault inside the tile",
+                    "coordinates": {
+                        "x": 35.08,
+                        "y": 61.11
+                    }
+                }
+            ],
+            "id": "5ad12901-79ff-4935-a51f-0a5a1e5484a4"
+        }
+    ]
+}

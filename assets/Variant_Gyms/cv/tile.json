@@ -1,0 +1,48 @@
+{
+    "id": "2cd14e63-8305-418a-bf22-d41a29060c6e",
+    "name": "C Vault",
+    "description": "C Vault tile",
+    "aliases": [
+        "CV",
+        "C Vault Gym"
+    ],
+    "semiAliases": [
+        "Vault",
+        "Vault gym",
+        "Gym"
+    ],
+    "extraInformation": {
+        "Realm Variation": "Realms like Autohaven will ever so slightly change this tile. Because autohavens wall assets are thicker than the walls of MacMillan, there is no C shape, however the overall layout is still the exact same"
+    },
+    "images": [
+        {
+            "blobs": [
+                {
+                    "id": "6e3409de-b5da-447f-a66f-19d5f288ae10",
+                    "name": "New Blob 1",
+                    "text": "Vault is close to this C (mirrored) shaped structure",
+                    "coordinates": {
+                        "x": 68.58,
+                        "y": 45.1
+                    }
+                },
+                {
+                    "id": "342f3124-65df-4116-906f-94d5c04abdee",
+                    "name": "New Blob 2",
+                    "text": "No pallet near the straight locker",
+                    "coordinates": {
+                        "x": 72.3,
+                        "y": 77.87
+                    }
+                }
+            ],
+            "file": "cvault_schematic.png",
+            "tags": [
+                "schematic",
+                "medium",
+                "top-down"
+            ],
+            "id": "adfed40d-2fbf-4672-ac51-9025ed538b53"
+        }
+    ]
+}
